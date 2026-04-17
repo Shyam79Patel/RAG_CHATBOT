@@ -5,12 +5,6 @@
 __pycache__/
 *.pyc
 
-# Vector DB
-chroma_db/
-
-# Data
-papers/
-
 # VS Code
 .vscode/
 
