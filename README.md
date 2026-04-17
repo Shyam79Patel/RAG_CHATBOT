@@ -139,7 +139,7 @@ project/
 
 ## Example
 
-<img width="1086" height="877" alt="Screenshot 2026-04-17 110133" src="https://github.com/user-attachments/assets/ce646e73-1eb6-4dfc-9cd5-4db2030786b9" />
+<img width="400" height="877" alt="Screenshot 2026-04-17 110133" src="https://github.com/user-attachments/assets/ce646e73-1eb6-4dfc-9cd5-4db2030786b9" />
 
 
 ---
