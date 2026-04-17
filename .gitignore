@@ -1,0 +1,18 @@
+# Secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Vector DB
+chroma_db/
+
+# Data
+papers/
+
+# VS Code
+.vscode/
+
+# Temp files
+tempCodeRunnerFile.py
