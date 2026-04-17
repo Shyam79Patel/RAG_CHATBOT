@@ -97,8 +97,8 @@ The model is instructed to:
 Clone the repository:
 
 ```bash
-git clone <your-repo-url>
-cd <project-folder>
+git clone https://github.com/Shyam79Patel/RAG_CHATBOT.git
+cd RAG_CHATBOT
 ```
 
 Install dependencies:
