@@ -97,8 +97,8 @@ The model is instructed to:
 Clone the repository:
 
 ```bash
-git clone <your-repo-url>
-cd <project-folder>
+git clone https://github.com/Shyam79Patel/RAG_CHATBOT.git
+cd RAG_CHATBOT
 ```
 
 Install dependencies:
@@ -139,7 +139,8 @@ project/
 
 ## Example
 
-(Add screenshot of UI here)
+<img width="500" height="877" alt="Screenshot 2026-04-17 110133" src="https://github.com/user-attachments/assets/ce646e73-1eb6-4dfc-9cd5-4db2030786b9" />
+
 
 ---
 
