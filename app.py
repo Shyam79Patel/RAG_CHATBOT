@@ -101,7 +101,6 @@ if query:
         response_placeholder.markdown(f'<div class="bot">{streamed_text}</div>', unsafe_allow_html=True)
         time.sleep(0.02)
 
-    # save final response
     st.session_state.messages.append({
         "role": "assistant",
         "content": answer})
